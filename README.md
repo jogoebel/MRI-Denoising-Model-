@@ -18,4 +18,4 @@ Also in each model folder is a .png which is contains the graphed loss curves fo
 Any file that contains "modelJQC_{model description}.py" was used to train the correpsonding model. 
 
 # In GitHub:
-Implementation code of preprocessing, BM3D, and model training
+Implementation code of preprocessing, BM3D, model training, and an example slurm file for Longleaf.
